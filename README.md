@@ -1,0 +1,4 @@
+- 😎✔Hi, my name is Miguel from Miami 
+- I am a programmer working on full stack development. 
+- You can reach out to me using michtech7@gmail.com
+- Thank you and have a good night!
